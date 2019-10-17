@@ -112,6 +112,13 @@ Installation: https://angular.carbondesignsystem.com/documentation/index.html
 
 Installation: https://akveo.github.io/nebular/docs/guides/install-nebular#install-nebular
 
+### PrimeNG
+
+- [Github](https://github.com/primefaces/primeng)
+- [Homepage](https://www.primefaces.org/primeng/#/)
+
+Installation: https://www.primefaces.org/primeng/#/setup
+
 ## Data Libraries
 
 ### NGRX Reactive State for Angular
