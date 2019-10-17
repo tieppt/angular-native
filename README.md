@@ -119,6 +119,17 @@ Installation: https://akveo.github.io/nebular/docs/guides/install-nebular#instal
 
 Installation: https://www.primefaces.org/primeng/#/setup
 
+### ngx-infinite-scroll (Infinite Scroll Directive for Angular)
+
+- [Github](https://github.com/orizens/ngx-infinite-scroll)
+
+### ngx-gallery ( Angular Gallery, Carousel and Lightbox)
+
+- [Github](https://github.com/MurhafSousli/ngx-gallery)
+- [Homepage](https://murhafsousli.github.io/ngx-gallery/#/)
+
+Installation: https://murhafsousli.github.io/ngx-gallery/#/getting-started/core
+
 ## Data Libraries
 
 ### NGRX Reactive State for Angular
