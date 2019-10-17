@@ -130,6 +130,21 @@ Installation: https://www.primefaces.org/primeng/#/setup
 
 Installation: https://murhafsousli.github.io/ngx-gallery/#/getting-started/core
 
+### ngx-scrollbar (Custom overlay-scrollbars with native scrolling mechanism)
+
+- [Github](https://github.com/MurhafSousli/ngx-scrollbar)
+- [Homepage](https://ngx-scrollbar.netlify.com/)
+
+Installation: https://github.com/MurhafSousli/ngx-scrollbar/wiki
+
+### ngx-progressbar
+
+- [Github](https://github.com/MurhafSousli/ngx-progressbar)
+- [Homepage](https://murhafsousli.github.io/ngx-progressbar/#/)
+
+Installation: https://github.com/MurhafSousli/ngx-progressbar/wiki/Usage
+
+
 ## Data Libraries
 
 ### NGRX Reactive State for Angular
