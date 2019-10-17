@@ -1,6 +1,34 @@
 # List Angular Native Library
 
 This repo lists some featured projects, written by native Angular - No jQuery
+<!-- TOC depthfrom:2 depthto:3 orderedlist:false updateonsave:true -->
+
+- [UI Component Libraries](#ui-component-libraries)
+    - [Component infrastructure and Material Design components for Angular](#component-infrastructure-and-material-design-components-for-angular)
+    - [Ng-Bootstrap widgets](#ng-bootstrap-widgets)
+    - [Ngx-Bootstrap widgets](#ngx-bootstrap-widgets)
+    - [Ant Design of Angular](#ant-design-of-angular)
+    - [Clarity Design System](#clarity-design-system)
+    - [ngx-datatable](#ngx-datatable)
+    - [ngx-charts (Declarative Charting Framework for Angular)](#ngx-charts-declarative-charting-framework-for-angular)
+    - [ngx-dnd (Drag, Drop and Sorting Library for Angular2 and beyond! )](#ngx-dnd-drag-drop-and-sorting-library-for-angular2-and-beyond-)
+    - [Covalent UI Platform for building enterprise desktop web apps](#covalent-ui-platform-for-building-enterprise-desktop-web-apps)
+    - [ag-grid World's Leading Angular Datagrid Component](#ag-grid-worlds-leading-angular-datagrid-component)
+    - [Blox Material](#blox-material)
+    - [An Angular implementation of the Carbon Design System](#an-angular-implementation-of-the-carbon-design-system)
+    - [Nebular](#nebular)
+    - [PrimeNG](#primeng)
+    - [ngx-infinite-scroll (Infinite Scroll Directive for Angular)](#ngx-infinite-scroll-infinite-scroll-directive-for-angular)
+    - [ngx-gallery ( Angular Gallery, Carousel and Lightbox)](#ngx-gallery--angular-gallery-carousel-and-lightbox)
+    - [ngx-scrollbar (Custom overlay-scrollbars with native scrolling mechanism)](#ngx-scrollbar-custom-overlay-scrollbars-with-native-scrolling-mechanism)
+    - [ngx-progressbar](#ngx-progressbar)
+- [Data Libraries](#data-libraries)
+    - [NGRX Reactive State for Angular](#ngrx-reactive-state-for-angular)
+    - [Akita (a state management pattern)](#akita-a-state-management-pattern)
+- [i18n Libraries](#i18n-libraries)
+    - [transloco (The internationalization (i18n) library for Angular)](#transloco-the-internationalization-i18n-library-for-angular)
+
+<!-- /TOC -->
 
 ## UI Component Libraries
 
