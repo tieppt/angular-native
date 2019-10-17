@@ -146,6 +146,12 @@ Installation: https://ngrx.io/guide/store/install
 
 Installation: https://netbasal.gitbook.io/akita/getting-started/installation
 
+## i18n Libraries
 
+### transloco (The internationalization (i18n) library for Angular)
 
+- [Github](https://github.com/ngneat/transloco)
+- [Homepage](https://transloco.netlify.com)
+
+Installation: https://netbasal.gitbook.io/transloco/installation
 
