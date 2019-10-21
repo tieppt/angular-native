@@ -10,7 +10,6 @@ This repo lists some featured projects, written by native Angular - No jQuery
     - [Ant Design of Angular](#ant-design-of-angular)
     - [Clarity Design System](#clarity-design-system)
     - [ngx-datatable](#ngx-datatable)
-    - [ngx-charts (Declarative Charting Framework for Angular)](#ngx-charts-declarative-charting-framework-for-angular)
     - [ngx-dnd (Drag, Drop and Sorting Library for Angular2 and beyond! )](#ngx-dnd-drag-drop-and-sorting-library-for-angular2-and-beyond-)
     - [Covalent UI Platform for building enterprise desktop web apps](#covalent-ui-platform-for-building-enterprise-desktop-web-apps)
     - [ag-grid World's Leading Angular Datagrid Component](#ag-grid-worlds-leading-angular-datagrid-component)
@@ -22,6 +21,9 @@ This repo lists some featured projects, written by native Angular - No jQuery
     - [ngx-gallery ( Angular Gallery, Carousel and Lightbox)](#ngx-gallery--angular-gallery-carousel-and-lightbox)
     - [ngx-scrollbar (Custom overlay-scrollbars with native scrolling mechanism)](#ngx-scrollbar-custom-overlay-scrollbars-with-native-scrolling-mechanism)
     - [ngx-progressbar](#ngx-progressbar)
+- [Charts Libraries](#charts-libraries)
+    - [ngx-charts (Declarative Charting Framework for Angular)](#ngx-charts-declarative-charting-framework-for-angular)
+    - [apexcharts](#apexcharts)
 - [Data Libraries](#data-libraries)
     - [NGRX Reactive State for Angular](#ngrx-reactive-state-for-angular)
     - [Akita (a state management pattern)](#akita-a-state-management-pattern)
@@ -91,13 +93,6 @@ Installation: https://v2.clarity.design/get-started
 - [Homepage](http://swimlane.github.io/ngx-datatable/)
 
 Installation: https://swimlane.gitbook.io/ngx-datatable/installing
-
-### ngx-charts (Declarative Charting Framework for Angular)
-
-- [Github](https://github.com/swimlane/ngx-charts)
-- [Homepage](http://swimlane.github.io/ngx-charts/)
-
-Installation: https://swimlane.gitbook.io/ngx-charts/installing
 
 ### ngx-dnd (Drag, Drop and Sorting Library for Angular2 and beyond! )
 
@@ -172,6 +167,22 @@ Installation: https://github.com/MurhafSousli/ngx-scrollbar/wiki
 
 Installation: https://github.com/MurhafSousli/ngx-progressbar/wiki/Usage
 
+## Charts Libraries
+
+### ngx-charts (Declarative Charting Framework for Angular)
+
+- [Github](https://github.com/swimlane/ngx-charts)
+- [Homepage](http://swimlane.github.io/ngx-charts/)
+
+Installation: https://swimlane.gitbook.io/ngx-charts/installing
+
+### apexcharts
+
+- [Github](https://github.com/apexcharts/apexcharts.js)
+- [Github Angular Wrapper](https://github.com/apexcharts/ng-apexcharts)
+- [Homepage](https://apexcharts.com)
+
+Installation: https://apexcharts.com/docs/installation/
 
 ## Data Libraries
 
